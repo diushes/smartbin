@@ -1,1 +1,3 @@
 # smartbin
+
+![image](bin.jpg)
